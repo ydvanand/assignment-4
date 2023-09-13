@@ -1,0 +1,25 @@
+.conatiner{
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    gap: 15px;
+    border-radius: 10px;
+    justify-content: center;
+    
+  }
+  .card{
+    width: 330px;
+    height: 420px;
+    border: 1px solid rgb(49, 31, 31);
+    transition: 0.5s ease-out;
+    border-radius: 10px;  
+    
+  }
+  
+  img{
+    height: 250px;
+    width: 330px;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(49, 32, 32);
+  }  
